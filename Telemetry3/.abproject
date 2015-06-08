@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Telemetry3",
+  "ProjectGuid": "1c548932-833c-43c6-9a5f-c844e84e5f0e",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Telemetry3",
+  "DisplayName": "Telemetry3",
+  "Author": "",
+  "Description": "Telemetry3",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{b64c7e9d-5ba9-4371-a5be-8a2d7178b01f}",
+  "WP8ProductID": "{44792e29-27fc-4857-bc59-3f0ac60741d4}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Telemetry3",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
