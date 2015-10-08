@@ -37,7 +37,7 @@
             skin: 'flat',
 
             // the application needs to know which view to load first
-            initial: 'views/temp.html'
+            initial: 'views/door.html'
         });
 
     }, false);
